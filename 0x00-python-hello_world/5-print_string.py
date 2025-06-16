@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-str = "ALX "
-print(f"{str*4}")
+str = "Holberton School"
+print("%s" %("ALX " * 4))
