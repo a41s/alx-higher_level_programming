@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print("%s" % "ALX ALX ALX ALX")
+str = "ALX ALX ALX ALX"
+print(f"{str}")
