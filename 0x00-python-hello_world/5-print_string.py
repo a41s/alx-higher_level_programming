@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-str = "ALX " * 4
-print(f"{str}")
+str = str.replace("Holberton", "ALX")
+print(f"{str[:4]*4}")
